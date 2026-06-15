@@ -18,6 +18,5 @@ My interests are math, physics, rock-climbing, philosophy, video games, and musi
     class="diagram"
   >
   <figcaption class="caption">
-    The coordinate diagrams for a linear map under two choices of bases.
   </figcaption>
 </figure>
